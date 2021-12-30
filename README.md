@@ -12,3 +12,4 @@ Code Refactoring (Horiseon Webpage)
 >added <footer>
 >consolidated h2 classes in CSS
 >consolidated h3 classes in CSS
+>added anchor link to the top
